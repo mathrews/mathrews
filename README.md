@@ -22,5 +22,9 @@
   <img align="right" height="200px" width="200px" alt="Mateus-Anime" src="https://cdn.picrew.me/shareImg/org/202305/338224_bc3BTE8D.png">
 </div>
 
+## Sobre mim:
+
+- Tenho 15 anos e sou estudante escolar e estudante de desenvolvimento de softwares pela empresa Digital College. Até o momento meus conhecimentos se limitam apenas a *HTML*, *CSS* e *GIT e GITHUB*. Procuro ser efetivo e se especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
+
 
 
