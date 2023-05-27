@@ -24,7 +24,7 @@
 
 ## Sobre mim:
 
-- Tenho 15 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a *HTML*, *CSS* e *GIT e GITHUB*. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
+- Tenho 15 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a *HTML*, *CSS* e *GIT e GITHUB*. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.,
 
 
 
