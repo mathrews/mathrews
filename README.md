@@ -14,6 +14,7 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="typescript.svg">
 </div>
 
 <div>
@@ -25,7 +26,7 @@
 
 ## Sobre mim:
 
-- Tenho 15 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a *HTML*, *CSS*, um pouco de *JS* e *GIT e GITHUB*. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
+- Tenho 15 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a *HTML*, *CSS*, um pouco de *JS*, *TYPESCRIPT* e *GIT e GITHUB*. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
 
 
 
