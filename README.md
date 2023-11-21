@@ -21,7 +21,6 @@
   <h2>Redes Sociais</h2>
   <a href="https://instagram.com/teteus_eumsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusps4gg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" height="200px" width="200px" alt="Mateus-Anime" src="https://cdn.picrew.me/shareImg/org/202305/338224_bc3BTE8D.png">
 </div>
 
 ## Sobre mim:
