@@ -25,7 +25,7 @@
 
 ## Sobre mim:
 
-- Tenho 16 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a `HTML`, `CSS`, um pouco de `JS`, `TYPESCRIPT`, `GIT e GITHUB` e `React`. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
+- Tenho 16 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a `HTML`, `CSS`, um pouco de `JS`, `TYPESCRIPT`, `GIT e GITHUB`, `React` e `Rust`. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
 
 
 
