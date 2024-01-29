@@ -15,6 +15,15 @@
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img align="center" alt="Mateus-TS" height="30" width="40" src="typescript.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fedora/fedora-plain.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg">
+  <img align="center" alt="Mateus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vim/vim-original.svg">
 </div>
 
 <div>
@@ -25,7 +34,7 @@
 
 ## Sobre mim:
 
-- Tenho 16 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas a `HTML`, `CSS`, um pouco de `JS`, `TYPESCRIPT`, `GIT e GITHUB`, `React` e `Rust`. Procuro ser efetivo e me especializar no ramo de desenvolvimento de softwares para a minha futura entrada no mercado de trabalho.
+- Tenho 16 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas: `HTML` | `CSS` | `JS` | `TYPESCRIPT` | `GIT e GITHUB` | `REACT, FRAMEWORKS E LIBS` | `RUST` | `NODE JS` | `MYSQL` | `MARIADB` | `SQL` | `LINUX` | `PYTHON E SUAS LIBS` | `NEOVIM E VIM`. Procuro ser efetivo e resiliente para a melhor resolução de problemas.
 
 
 
