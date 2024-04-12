@@ -31,7 +31,7 @@
   <a href = "mailto:mateusps4gg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Sobre mim:
+## About me:
 
 - I'm 16 years old. I'm a software engeneer, student and developer. My hard skills: `HTML` | `CSS` | `JS` | `TYPESCRIPT` | `GIT and GITHUB` | `REACT, FRAMEWORKS AND LIBS` | `RUST` | `NODE JS` | `MYSQL` | `MARIADB` | `SQL` | `LINUX` | `PYTHON AND ITS LIBS` | `NEOVIM AND VIM`. My soft skills: Resilient, hardworking, patient, outgoing, social, teamwork, leadership, curious.
 
