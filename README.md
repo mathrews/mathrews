@@ -1,4 +1,4 @@
-## Salve salve! Eu sou o Mateus 👋
+## Salve salve! I'm Mateus 👋
 <div>
   <a href="https://github.com/mathrews"/>
   <h2>My activitie</h2>
@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h2>Langs used by me:/h2>
+  <h2>Langs used by me:</h2>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrews&layout=pie"/>
 </div>
 
