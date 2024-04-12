@@ -1,12 +1,12 @@
 ## Salve salve! Eu sou o Mateus 👋
 <div>
   <a href="https://github.com/mathrews"/>
-  <h2>Minha atividade</h2>
+  <h2>My activitie</h2>
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=mathrews&show_icons=true&theme=dark&count_private=true"/>
 </div>
 
 <div>
-  <h2>Linguagens usadas atualmente</h2>
+  <h2>Langs used by me:/h2>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrews&layout=pie"/>
 </div>
 
@@ -26,14 +26,18 @@
 </div>
 
 <div>
-  <h2>Redes Sociais</h2>
+  <h2>Social Media:</h2>
   <a href="https://instagram.com/teteus_eumsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusps4gg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Sobre mim:
 
-- Tenho 16 anos, sou estudante escolar e estudante de desenvolvimento de softwares pela escola Digital College. Até o momento meus conhecimentos se limitam apenas: `HTML` | `CSS` | `JS` | `TYPESCRIPT` | `GIT e GITHUB` | `REACT, FRAMEWORKS E LIBS` | `RUST` | `NODE JS` | `MYSQL` | `MARIADB` | `SQL` | `LINUX` | `PYTHON E SUAS LIBS` | `NEOVIM E VIM`. Procuro ser efetivo e resiliente para a melhor resolução de problemas.
+- I'm 16 years old. I'm a software engeneer, student and developer. My hard skills: HTML | CSS | JS | TYPESCRIPT | GIT and GITHUB | REACT, FRAMEWORKS AND LIBS | RUST | NODE JS | MYSQL | MARIADB | SQL | LINUX | PYTHON AND ITS LIBS | NEOVIM AND VIM. My soft skills: Resilient, hardworking, patient, outgoing, social, teamwork, leadership, curious.
+
+'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me. '
+
+Galatians 2:20
 
 
 
