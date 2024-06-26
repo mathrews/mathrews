@@ -10,7 +10,7 @@
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrews&layout=pie"/>
 </div>
 
-<div style="display: inline-block; background-color: white;">
+<div style="display: inline-block; background-color: white; padding: 10px; border-radius: 5px;">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
@@ -36,8 +36,7 @@
 
 - I'm 16 years old. I'm a software engeneer, student and developer. My hard skills: `HTML` | `CSS` | `JS` | `TYPESCRIPT` | `GIT and GITHUB` | `REACT, FRAMEWORKS AND LIBS` | `RUST` | `NODE JS` | `MYSQL` | `MARIADB` | `SQL` | `LINUX` | `PYTHON AND ITS LIBS` | `NEOVIM AND VIM` | `DOCKER`. My soft skills: Resilient, hardworking, patient, outgoing, social, teamwork, leadership, curious.
 
-'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me. '
-
+- 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me. '
 Galatians 2:20
 
 
