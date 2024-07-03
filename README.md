@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h2>Langs used by me:</h2>
+  <h2>Most Used Tools:</h2>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrews&layout=pie"/>
 </div>
 
