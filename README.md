@@ -7,7 +7,7 @@
 
 <div>
   <h2>Most Used Tools:</h2>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrews&layout=pie"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrews&layout=donut-vertical"/>
 </div>
 
 <div style="display: inline-block; background-color: white; padding: 10px; border-radius: 5px;">
