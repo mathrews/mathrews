@@ -34,7 +34,7 @@
 
 ## About me:
 
-- I'm 16 years old. I'm a software engeneer, student and developer. My hard skills: `HTML` | `CSS` | `JS` | `TYPESCRIPT` | `GIT and GITHUB` | `REACT, FRAMEWORKS AND LIBS` | `RUST` | `NODE JS` | `MYSQL` | `MARIADB` | `SQL` | `LINUX` | `PYTHON AND ITS LIBS` | `NEOVIM AND VIM` | `DOCKER`. My soft skills: Resilient, hardworking, patient, outgoing, social, teamwork, leadership, curious.
+- I'm 16 years old. I'm a software engeneer, student and developer. My hard skills: `HTML` | `CSS` | `JS` | `TYPESCRIPT` | `GIT and GITHUB` | `REACT, FRAMEWORKS AND LIBS` | `RUST` | `NODE JS` | `MYSQL` | `MARIADB` | `SQL` | `LINUX` | `PYTHON AND ITS LIBS` | `NEOVIM AND VIM` | `DOCKER` & `DOCKER COMPOSE` | `C` | `C++`. My soft skills: Resilient, hardworking, patient, outgoing, social, teamwork, leadership, curious.
 
 - 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me. '
 Galatians 2:20
