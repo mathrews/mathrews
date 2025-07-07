@@ -14,7 +14,6 @@
   <img align="center" alt="Mateus-TS" height="30" width="40" src="typescript.svg">
   <img align="center" alt="Mateus-PY" height="30" width="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg">
   <img align="center" alt="Mateus-RS" height="30" width="40" style="background-color=white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
-  <img align="center" alt="Mateus-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg">
   <img align="center" alt="Mateus-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Mateus-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Mateus-FEDORA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fedora/fedora-plain.svg">
