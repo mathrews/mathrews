@@ -1,8 +1,6 @@
 ## Salve salve! I'm Mateus 👋
 <div>
   <a href="https://github.com/mathrews"/>
-  <h2>My activitie</h2>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=mathrews&show_icons=true&theme=dark&count_private=true"/>
 </div>
 
 <div>
@@ -20,6 +18,9 @@
   <img align="center" alt="Mateus-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg">
   <img align="center" alt="Mateus-VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vim/vim-original.svg">
   <img align="center" alt="Mateus-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Mateus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg">
+  <img align="center" alt="Mateus-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Mateus-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg">
   <h3>And more things...</h3>
 </div>
 
